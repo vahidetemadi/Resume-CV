@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7040 NEXT 64-bit) (preloaded format=xelatex 2019.5.17)  18 MAY 2019 19:17
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7040 NEXT 64-bit) (preloaded format=xelatex 2019.5.17)  18 MAY 2019 20:10
 entering extended mode
 **./cv-VahidEtemadi.tex
 (cv-VahidEtemadi.tex
@@ -1082,11 +1082,6 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 58.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 58.
-
-Overfull \hbox (1.46977pt too wide) in paragraph at lines 99--99
-[]\TU/SourceSansPro(0)/m/n/10 Programming 
- []
-
 
 ("C:\Users\DistLab3\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\se-a
 scii-print.def"
